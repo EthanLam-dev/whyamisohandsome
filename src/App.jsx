@@ -528,7 +528,7 @@ function App() {
 
 {/* 新增互動 3：迷你地理分佈地圖 (Little Map) */}{/* ================= 互動 3：真實大數據地圖 (Folium) ================= */}
           <div>
-            <h2 className="text-3xl font-bold mb-6 text-blue-300 text-center">SPATIAL DISTRIBUTION (2025 vs 2026)</h2>
+            <h2 className="text-3xl font-bold mb-6 text-blue-300 text-center">SPATIAL DISTRIBUTION IN 2026</h2>
             <p className="text-center text-slate-300 mb-10 max-w-4xl mx-auto leading-relaxed">
               大數據空間運算揭示了海岸線硬化帶來的地理變化。這張是我們利用 Folium 繪製的真實大數據地圖。<br/>
               <span className="text-red-400 font-bold">紅色標記為小白鷺</span>，<span className="text-blue-400 font-bold">藍色標記為底棲生物</span>。您可以自由拖曳、縮放，並點擊圖標查看詳細數據。

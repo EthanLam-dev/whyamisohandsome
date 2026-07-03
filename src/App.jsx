@@ -233,7 +233,7 @@ function App() {
 
               <div className="flex items-center justify-center">
                 <img
-                  src="/abstract-picture.jpg"
+                  src="/abstract-picture.png"
                   alt="Macao coastal ecology illustration"
                   className="w-full max-w-lg rounded-3xl border border-slate-700 shadow-2xl object-cover"
                 />
